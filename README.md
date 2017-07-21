@@ -1,4 +1,4 @@
-# **Blender Learning シムのパネルや説明書を作るための方針**
+# **Blender Learning シムのパネルや説明書を作るための方針** {#この文書の方針}
 
 記事のライセンスをCC-BY-SA?\(gitbookなどに提供できるようにする\)
 
