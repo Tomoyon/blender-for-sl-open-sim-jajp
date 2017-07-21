@@ -2,7 +2,7 @@
 
 記事のライセンスをCC-BY-SA?\(gitbookなどに提供できるようにする\)
 
-\(参考: [https://www.gitbook.com/book/nutti/introduction-to-add-on-development-in-blender/details\)](https://www.gitbook.com/book/nutti/introduction-to-add-on-development-in-blender/details%29)
+\(参考: [https://www.gitbook.com/book/nutti/introduction-to-add-on-development-in-blender/details\)](https://www.gitbook.com/book/nutti/introduction-to-add-on-development-in-blender/details)
 
 Blenderを始めとしてGIMP,Inkscape,Makehuman,Krita などのフリーソフトウェア\(厳密に言うと[FLOSS](https://ja.wikipedia.org/wiki/FLOSS)\)を扱う
 

@@ -6,6 +6,7 @@
 
 #### Blender の日本語化がされていること
 Info &gt;File &gt;User Preferences... &gt;System\[タブ\] &gt;\[ \]International Fonts
+チェックを入れます
 \(右下です チェックを入れると次のリストとボタンが出てきます\)
 \(なお以前は上の Interface Font を触るようになっていたそうですが今は特に触る必要ありません\)
 
