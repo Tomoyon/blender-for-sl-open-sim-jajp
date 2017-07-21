@@ -1,14 +1,10 @@
-# **Blender Learning シムの**
-
-**パネルや説明書を作るための方針**
+# **Blender Learning シムのパネルや説明書を作るための方針**
 
 記事のライセンスをCC-BY-SA?\(gitbookなどに提供できるようにする\)
 
-\(参考:
+\(参考: [https://www.gitbook.com/book/nutti/introduction-to-add-on-development-in-blender/details\)](https://www.gitbook.com/book/nutti/introduction-to-add-on-development-in-blender/details%29)
 
-[https://www.gitbook.com/book/nutti/introduction-to-add-on-development-in-blender/details\)](https://www.gitbook.com/book/nutti/introduction-to-add-on-development-in-blender/details%29)
-
-Blenderを始めとしてGIMP,Inkscape,Makehuman,Krita などのフリーソフトウェア\(厳密に言うとFLOSS\)を扱う
+Blenderを始めとしてGIMP,Inkscape,Makehuman,Krita などのフリーソフトウェア\(厳密に言うと[FLOSS](https://ja.wikipedia.org/wiki/FLOSS)\)を扱う
 
 Blenderのアドオンであっても有料のものは扱わない
 
